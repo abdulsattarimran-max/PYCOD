@@ -5,4 +5,4 @@ temp=a
 a=b
 b=temp
 print("after swapping")
-print("a=",a,"b=",b)
+ print("a=",a,"b=",b)
