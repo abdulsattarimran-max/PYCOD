@@ -1,8 +1,0 @@
-a=5
-b=12
-print("the value of a is 5 and the value of b is 12 before swapping ")
-temp=a
-a=b
-b=temp
-print("after swapping")
-print("a=",a,"b=",b)

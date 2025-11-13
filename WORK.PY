@@ -7,7 +7,4 @@ a=b
 b=c
 c=temp
 print("after swapping")
-("a=",a,"b=",b,"c=",c,)
-
-
-
+print("a=",a,"b=",b,"c=",c,)
