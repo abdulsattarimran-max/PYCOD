@@ -1,0 +1,10 @@
+a=9
+b=8
+c=6
+print("the value of a is 9 the value of b is 8 and c is 6 before swapping")
+temp=a
+a=b
+b=c
+c=temp
+print("after swapping")
+print("a=",a,"b=",b,"c=",c,)
